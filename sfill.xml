@@ -1,0 +1,32 @@
+<skill> Базовая теория</skill>
+<skill>Что такое клиент-серверная архитектура</skill>
+<skill>HTTP Методы запросов на сервер</skill>
+<skill>Коды ответов HTTP сервера</skill>
+<skill>Структуры HTTP запросов и ответов</skill>
+<skill>Что такое JSON, XML. Их структура</skill>
+<skill>Тестирование API через Postman (JS, автотесты API)</skill>
+<skill> Снятие и чтение логов c внешнего сервера</skill>
+<skill>Снифинг http web трафика через Charles и Fiddler</skill>
+<skill>Dev Tools веб браузеров (Google Chrome, FireFox)</skill>
+<skill>VPN</skill>
+<skill>Мобильное тестирование</skill>
+<skill>Особенность iOS, Android, гайдлайны</skill>
+<skill>Сборка iOS приложений на XCode</skill>
+<skill>Сборка Android приложений на Android Studio</skill>
+<skill> ADB управление андройд девайсами</skill>
+<skill>Настройка прокси и vpn на iOS и Android</skill>
+<skill>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</skill>
+<skill>Командная строка (terminal) Linux</skill>
+<skill>Основы bash скриптинг, автоматизация рутинных задач на сервере</skill>
+<skill> Доступ к удалённым серверам</skill>
+<skill>Основы SQL</skill>
+<skill>База данных Postgres</skill>
+<skill>Нереляционная база данных Redis</skill>
+<skill>Нагрузочное тестирование в Jmeter</skill>
+<skill>Методология разработки Scrum</skill>
+<skill>Python.Изучение основ. Создание клиент серверного приложениe</skill>
+
+
+
+
+
